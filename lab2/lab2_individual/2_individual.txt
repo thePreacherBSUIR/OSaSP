@@ -1,0 +1,17 @@
+/home/thepreacher/051003/Chykiliou/lab2//lab2_individual/2_individual.c    3001  1653029780
+/home/thepreacher/051003/Chykiliou/lab2//lab2_individual/2_individual.exe    17928  1653029783
+/home/thepreacher/051003/Chykiliou/lab2//lab2_individual/2_individual.txt    0  1653029793
+/home/thepreacher/051003/Chykiliou/lab2//lab2_3/3.c    513  1653002580
+/home/thepreacher/051003/Chykiliou/lab2//lab2_3/3.exe    17032  1653002393
+/home/thepreacher/051003/Chykiliou/lab2//lab2_3/3.txt    12  1653027954
+/home/thepreacher/051003/Chykiliou/lab2//lab2_2/2.c    100  1652998770
+/home/thepreacher/051003/Chykiliou/lab2//lab2_2/2.exe    16696  1652998795
+/home/thepreacher/051003/Chykiliou/lab2//lab2_5/5.exe    17152  1653004109
+/home/thepreacher/051003/Chykiliou/lab2//lab2_5/5.c    1174  1653004097
+/home/thepreacher/051003/Chykiliou/lab2//lab2_5/5_to.txt    1182  1653004129
+/home/thepreacher/051003/Chykiliou/lab2//lab2_5/5_from.txt    1182  1653003230
+/home/thepreacher/051003/Chykiliou/lab2//lab2_6/6.c    660  1653005533
+/home/thepreacher/051003/Chykiliou/lab2//lab2_6/6.exe    17000  1653005387
+/home/thepreacher/051003/Chykiliou/lab2//lab2_4/4.txt    1182  1653002187
+/home/thepreacher/051003/Chykiliou/lab2//lab2_4/4.c    1013  1653002625
+/home/thepreacher/051003/Chykiliou/lab2//lab2_4/4.exe    17112  1653002141
