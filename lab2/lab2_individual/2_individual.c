@@ -104,7 +104,7 @@ int main(int argc, char *argv[])
 {
     if (argc != 7)
     {
-        fprintf(stderr, "invalid arguments!.\ncorrect format: %s <directory_name> <output_file> <from_size> <to_size> <from_date> <to_date>", argv[0]);
+        fprintf(stderr, "\ninvalid arguments!.\ncorrect format: %s <directory_name> <output_file> <from_size> <to_size> <from_date> <to_date>\n\n", argv[0]);
         return 1;
     }
 
