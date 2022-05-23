@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
 int main(int argc, char const *argv[])
 {
@@ -8,11 +9,16 @@ int main(int argc, char const *argv[])
 		return 1;
 	}
 
-    int lines_amount = strtol(argv[2], NULL, 10);
+    char *ptr;
+    int lines_amount = strtol(argv[2], &ptr, 10);
     
     if(lines_amount < 0){
-        fprintf(stderr, "\ninvalid amount of lines!\n");
+        fprintf(stderr, "\ninvalid amount of lines!\n\n");
         return 1;
+        }
+    else if (strcmp(argv[2],ptr) == 0 || (strlen(ptr) != 0)){
+        fprintf(stderr, "\nerror! amount of lines must b a number\n\n");
+        return -1;
         }
 
 	FILE *file = fopen(argv[1], "r");
